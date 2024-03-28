@@ -1,0 +1,14 @@
+.jfx-list-view {
+    -fx-border-color: #4c566a;
+    -fx-background-insets: none;
+    -fx-selection-bar: #d8dee9;
+}
+
+.jfx-list-view .jfx-list-cell {
+    -fx-background-insets: none;
+    -fx-text-fill: #4c566a;
+}
+
+.jfx-list-view .jfx-list-cell .jfx-rippler {
+    -jfx-rippler-fill: #eceff4;
+}
