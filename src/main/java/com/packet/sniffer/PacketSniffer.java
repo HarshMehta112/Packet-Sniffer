@@ -1,4 +1,4 @@
-package com.spencer;
+package com.packet.sniffer;
 
 import org.pcap4j.core.PcapNativeException;
 import org.pcap4j.core.PcapNetworkInterface;

@@ -1,4 +1,4 @@
-package com.spencer;
+package com.packet.sniffer;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;

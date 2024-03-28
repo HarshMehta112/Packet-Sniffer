@@ -1,4 +1,4 @@
-package com.spencer;
+package com.packet.sniffer;
 
 public class PacketTableItem {
     private String packetTimestamp = null;
